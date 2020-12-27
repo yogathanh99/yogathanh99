@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Hi, I'm Thanh T.Vo, a passionate self-taught Front-end, Back-end Web Developer from VietNam.
 
 - 🔭 I’m currently working with ReactJS, NodeJS and TypeScript. However, I'm focussing to Front-end Developer.
-- 🌱 I’m currently learning GraphQL & AngularJS 
+- 🌱 I’m currently learning GraphQL & Angular 9
 
 ### Check out my social medias:
 - <a href="https://www.linkedin.com/in/vtthanh99/">

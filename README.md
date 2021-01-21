@@ -1,4 +1,4 @@
-### Hi there, I'm [Thanh T.Vo](https://zeroblog.netlify.app/) 👋
+<!-- ### Hi there, I'm [Thanh T.Vo](https://zeroblog.netlify.app/) 👋 -->
 
 <!--
 **yogathanh99/yogathanh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,30 +15,54 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
-Hi, I'm Thanh T.Vo, a passionate self-taught Front-end, Back-end Web Developer from VietNam.
+<p>
+  <h1 align="center"><b>Hello there, I'm <a href="https://zeroblog.netlify.app/">Thanh T.Vo</a> 👋</b></h1>
+</p>
 
+<p>
+  <h4 align="center"><b>"It’s not what I know, it’s what I do with what I know"</b></h4>
+</p>
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/yogathanh99" />
+</p>
+
+<p align="center">
+<br>
+<a href="https://www.facebook.com/thanhvo.apcs/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.instagram.com/trungthanh_vo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/vtthanh99/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:vtthanh99@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+
+
+<br/>
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### I'm Software Engineer, a passionate self-taught Front-end, Back-end Web Developer from VietNam.
 - 🔭 I’m currently working with ReactJS, NodeJS and TypeScript. However, I'm focussing to Front-end Developer.
 - 🌱 I’m currently learning GraphQL & Angular 9
+<br>
 
-### Check out my social medias:
-- <a href="https://www.linkedin.com/in/vtthanh99/">
-   <img align="left" alt="LinkedIn" width="21px" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" />&nbsp;LinkedIn
-  </a>
-- <a href="https://twitter.com/_zero2005">
-   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/github/explore/master/topics/twitter/twitter.png" />&nbsp;Twitter
-  </a>
-- <a href="https://www.facebook.com/thanhvo.apcs/">
-   <img align="left" alt="Facebook" width="21px" src="https://i.pinimg.com/originals/b3/26/b5/b326b5f8d23cd1e0f18df4c9265416f7.png" />&nbsp;Facebook
-  </a>
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<br>  
 
-
+### :zap: Github Stats
 
 ![ThanhVo's github stats](https://github-readme-stats.vercel.app/api?username=yogathanh99&show_icons=true&theme=tokyonight)
+
+<br>
+
+### 📊 &nbsp; STATS
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />

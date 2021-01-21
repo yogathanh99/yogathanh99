@@ -60,6 +60,12 @@ Here are some ideas to get you started:
 <br>
 
 ### 📊 &nbsp; STATS
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
 <!--START_SECTION:waka-->
 ```text
 TypeScript   11 hrs 32 mins  ███████████████▓░░░░░░░░░   63.04 % 

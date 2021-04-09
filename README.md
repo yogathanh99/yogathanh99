@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 6 mins     ██████████▒░░░░░░░░░░░░░░   41.83 % 
-Other        40 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.65 % 
-Python       27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Docker       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-JavaScript   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+JavaScript   1 hr 17 mins    ███████▓░░░░░░░░░░░░░░░░░   30.36 % 
+TypeScript   1 hr 12 mins    ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+Other        40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+JSX          28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+HTML         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 ```
 <!--END_SECTION:waka-->
 

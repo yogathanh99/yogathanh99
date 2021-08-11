@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   11 hrs 13 mins  ███████████████████░░░░░░   75.70 % 
-SCSS         2 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Docker       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TypeScript   9 hrs 10 mins   ██████████████████░░░░░░░   71.62 % 
+SCSS         2 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.84 % 
+JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Docker       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 <!--END_SECTION:waka-->
 
